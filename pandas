@@ -1,0 +1,10 @@
+import pandas as pd #Se importa la libreria
+
+# Crear una lista simple
+nombres = ['Ana', 'Luis', 'Carlos']
+
+# Crear uina Serie de Pandas (una columna de datos)
+serie = pd.Series(nombres)
+
+# Mostrar la Serie
+print(serie)
