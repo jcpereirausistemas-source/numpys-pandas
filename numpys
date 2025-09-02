@@ -1,0 +1,10 @@
+import numpy as np #Se importa la libreria
+
+# Crear un arreglo de números del 1 al 5
+arr = np.array([1, 2, 3, 4, 5]) 
+
+# Sumar todos los elementos del arreglo
+suma = np.sum(arr)
+
+print("El arreglo es:", arr) #Se imprime el arreglo completo
+print("La suma de los elementos es:", suma) #Se imprime la suma de todos los elementos
