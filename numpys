@@ -1,3 +1,5 @@
+pip install numpy #se instala numpys
+
 import numpy as np #Se importa la libreria
 
 # Crear un arreglo de números del 1 al 5
